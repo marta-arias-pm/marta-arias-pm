@@ -12,7 +12,6 @@ Este perfil no contiene código. Contiene procesos que he rediseñado, explicado
 
 | Repositorio | De qué va |
 |---|---|
-| [`prevision-materiales-laboratorio`](../../prevision-materiales-laboratorio) | Rediseño del sistema de previsión de materiales en un laboratorio farmacéutico. De dos semanas a una. |
 | [`gastos-domesticos`](../../gastos-domesticos) | Clasificación automática de gastos a partir del extracto bancario, con un motor de reglas en hoja de cálculo. |
 | [`planificador-menus-ia`](../../planificador-menus-ia) | Sistema asistido por IA que convierte el inventario de casa en menú, compra, plan de batch cooking y preparación diaria. |
 
