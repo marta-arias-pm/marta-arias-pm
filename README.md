@@ -10,10 +10,14 @@ Este perfil no contiene código. Contiene procesos que he rediseñado, explicado
 
 ## Qué vas a encontrar aquí
 
-| Repositorio | De qué va |
-|---|---|
-| [`gastos-domesticos`](../../gastos-domesticos) | Clasificación automática de gastos a partir del extracto bancario, con un motor de reglas en hoja de cálculo. |
-| [`planificador-menus-ia`](../../planificador-menus-ia) | Sistema asistido por IA que convierte el inventario de casa en menú, compra, plan de batch cooking y preparación diaria. |
+**[prevision-materiales-laboratorio](https://github.com/marta-arias-pm/prevision-materiales-laboratorio)** — *Caso profesional.*
+Rediseño de la previsión mensual de materiales en un departamento de estabilidades bajo GMP, sin integrar ningún sistema. De dos semanas a una, con las faltas de material el día del ensayo reducidas a algo poco habitual.
+
+**[gastos-domesticos](https://github.com/marta-arias-pm/gastos-domesticos)** — *Automatización por reglas.*
+Un extracto bancario entra y sale el gasto repartido por categorías, con un motor de reglas en hoja de cálculo y los casos sin clasificar siempre a la vista.
+
+**[planificador-menus-ia](https://github.com/marta-arias-pm/planificador-menus-ia)** — *Sistema asistido por IA.*
+Convierte el inventario de casa y el tiempo disponible en cuatro documentos listos para usar: menú, lista de la compra, plan de batch cooking y preparación de cada noche.
 
 ## Cómo trabajo
 
@@ -24,7 +28,7 @@ Este perfil no contiene código. Contiene procesos que he rediseñado, explicado
 
 ## Formación
 
-- **Executive Certified Diploma — INTEGRA Project Manager Methodology.** Florida Global University, 2026 (100 h).
+- **Executive Certified Diploma — Integra Project Manager Methodology.** Florida Global University, 2026 (100 h).
 - **Metodología MAGIA — Consultora de IA.** Mamis Digitales, en curso.
 - Técnico Superior en Laboratorio de Análisis y Control de Calidad (Química analítica).
 
